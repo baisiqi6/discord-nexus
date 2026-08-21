@@ -1,5 +1,9 @@
 # discord-nexus
 
+> [!IMPORTANT]
+> **Archived predecessor / 已停止维护。** 本仓库只保留历史 lineage，不再接收功能更新。
+> 受支持的公开稳定版本与社区入口请使用 [MultiNexus](https://github.com/baisiqi6/multinexus)。
+
 A modular Discord bot framework for connecting AI agents — Claude Code CLI, Codex CLI, and local LLMs (LM Studio, Ollama, vLLM) — to Discord as a collaborative multi-agent system.
 
 ---
